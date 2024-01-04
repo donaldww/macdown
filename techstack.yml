@@ -1,7 +1,8 @@
 repo_name: donaldww/macdown
 report_id: 4f26e8930b783ae1ef409ccf1ad26e98
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:53:43+00:00'
+timestamp: '2024-01-04T15:02:48+00:00'
 requested_by: uranusjr
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/donaldww/macdown
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -24,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/donaldww/macdown
   detection_source: Repo Metadata
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -33,6 +36,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/donaldww/macdown
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -43,6 +47,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/donaldww/macdown
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -53,6 +58,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/donaldww/macdown
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -63,6 +69,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/donaldww/macdown
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -73,6 +80,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/donaldww/macdown
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -83,6 +91,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2014-06-08 18:16:53.000000000 Z
@@ -95,6 +104,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Tools/GitHub-style-generator/package.json
   detection_source: Tools/GitHub-style-generator/package.json
   last_updated_by: Franklin Yu
   last_updated_on: 2018-03-31 02:51:15.000000000 Z
@@ -106,6 +116,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/donaldww/macdown
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -115,6 +126,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Orta Therox
   last_updated_on: 2015-04-05 21:20:02.000000000 Z
@@ -127,6 +139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2017-02-13 15:40:10.000000000 Z
@@ -138,6 +151,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Tools/GitHub-style-generator/package.json
   detection_source: Tools/GitHub-style-generator/package.json
   last_updated_by: Franklin Yu
   last_updated_on: 2018-03-31 02:51:15.000000000 Z
@@ -150,8 +164,8 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
-  detection_source_url: Gemfile.lock
-  detection_source: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Gemfile.lock
+  detection_source: Gemfile
   last_updated_by: Franklin Yu
   last_updated_on: 2017-01-06 22:01:58.000000000 Z
 - name: Shell
@@ -163,6 +177,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/donaldww/macdown
   detection_source: Repo Metadata
 - name: GBCli
   description: Objective C foundation tool command line interface library
@@ -174,7 +189,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2015-06-28 14:09:48.000000000 Z
@@ -188,7 +203,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2018-01-12 16:20:57.000000000 Z
@@ -202,7 +217,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2018-01-12 16:20:57.000000000 Z
@@ -216,7 +231,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2016-01-29 15:55:57.000000000 Z
@@ -230,7 +245,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2018-01-12 16:20:57.000000000 Z
@@ -244,7 +259,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2018-01-12 16:20:57.000000000 Z
@@ -258,7 +273,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2018-01-12 16:20:57.000000000 Z
@@ -272,7 +287,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2016-01-29 15:45:10.000000000 Z
@@ -286,7 +301,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
-  detection_source_url: Podfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
   detection_source: Podfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2018-01-12 16:20:57.000000000 Z
@@ -300,7 +315,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Franklin Yu
   last_updated_on: 2017-01-06 22:01:58.000000000 Z
@@ -314,7 +329,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19112/default_c404399f249c45bc71a2c704a4b9bc234dcaac3e.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Tzu-ping Chung
   last_updated_on: 2017-02-13 15:38:27.000000000 Z
@@ -328,7 +343,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: Tools/GitHub-style-generator/package-lock.json
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Tools/GitHub-style-generator/package-lock.json
   detection_source: Tools/GitHub-style-generator/package.json
   last_updated_by: Franklin Yu
   last_updated_on: 2018-03-31 02:51:15.000000000 Z
