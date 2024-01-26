@@ -1,0 +1,362 @@
+repo_name: donaldww/macdown
+report_id: 4f26e8930b783ae1ef409ccf1ad26e98
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-05T09:18:41+00:00'
+requested_by: uranusjr
+provider: github
+branch: master
+detected_tools_count: 27
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/donaldww/macdown
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/donaldww/macdown
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/donaldww/macdown
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/donaldww/macdown
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/donaldww/macdown
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/donaldww/macdown
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/donaldww/macdown
+  detection_source: Repo Metadata
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2014-06-08 18:16:53.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Tools/GitHub-style-generator/package.json
+  detection_source: Tools/GitHub-style-generator/package.json
+  last_updated_by: Franklin Yu
+  last_updated_on: 2018-03-31 02:51:15.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/donaldww/macdown
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Orta Therox
+  last_updated_on: 2015-04-05 21:20:02.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2017-02-13 15:40:10.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Tools/GitHub-style-generator/package.json
+  detection_source: Tools/GitHub-style-generator/package.json
+  last_updated_by: Franklin Yu
+  last_updated_on: 2018-03-31 02:51:15.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  version: 1.6.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Franklin Yu
+  last_updated_on: 2017-01-06 22:01:58.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/donaldww/macdown
+  detection_source: Repo Metadata
+- name: GBCli
+  description: Objective C foundation tool command line interface library
+  package_url: https://cocoapods.org/pods/GBCli
+  version: '1.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2015-06-28 14:09:48.000000000 Z
+- name: JJPluralForm
+  description: Helps localize strings such as 'N day' by returning '1 day'
+  package_url: https://cocoapods.org/pods/JJPluralForm
+  version: '2.1'
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2018-01-12 16:20:57.000000000 Z
+- name: LibYAML
+  description: LibYAML is a YAML 1.1 parser and emitter written in C
+  package_url: https://cocoapods.org/pods/LibYAML
+  version: 0.1.4
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2018-01-12 16:20:57.000000000 Z
+- name: M13OrderedDictionary
+  description: A cross between NSArray and NSDictionary
+  package_url: https://cocoapods.org/pods/M13OrderedDictionary
+  version: 1.1.0
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2016-01-29 15:55:57.000000000 Z
+- name: MASPreferences
+  description: Modern implementation of the Preferences window for OS X apps
+  package_url: https://cocoapods.org/pods/MASPreferences
+  version: '1.3'
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2018-01-12 16:20:57.000000000 Z
+- name: PAPreferences
+  description: An easy way to store user preferences using NSUserDefaults
+  package_url: https://cocoapods.org/pods/PAPreferences
+  version: '0.5'
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2018-01-12 16:20:57.000000000 Z
+- name: Sparkle
+  description: A software update framework for macOS
+  package_url: https://cocoapods.org/pods/Sparkle
+  version: 1.18.1
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2018-01-12 16:20:57.000000000 Z
+- name: handlebars-objc
+  description: Handlebars-objc is an implementation of Handlebars.js for Objective-C
+  package_url: https://cocoapods.org/pods/handlebars-objc
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2016-01-29 15:45:10.000000000 Z
+- name: hoedown
+  description: Standards compliant, fast, secure markdown processing library in C
+  package_url: https://cocoapods.org/pods/hoedown
+  version: 3.0.7
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Podfile.lock
+  detection_source: Podfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2018-01-12 16:20:57.000000000 Z
+- name: cocoapods
+  description: CocoaPods manages library dependencies for your Xcode project
+  package_url: https://rubygems.org/cocoapods
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Franklin Yu
+  last_updated_on: 2017-01-06 22:01:58.000000000 Z
+- name: travis
+  description: CLI and Ruby client library for Travis CI
+  package_url: https://rubygems.org/travis
+  version: 1.8.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19112/default_c404399f249c45bc71a2c704a4b9bc234dcaac3e.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Tzu-ping Chung
+  last_updated_on: 2017-02-13 15:38:27.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/donaldww/macdown/blob/master/Tools/GitHub-style-generator/package-lock.json
+  detection_source: Tools/GitHub-style-generator/package.json
+  last_updated_by: Franklin Yu
+  last_updated_on: 2018-03-31 02:51:15.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+  - name: Denial of Service in node-sass
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-9v62-24cr-58cx
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
